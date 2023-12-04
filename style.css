@@ -69,5 +69,38 @@ main{
 ul{
     padding: 20px;
 }
+/* fine sezione paragrafo e lista non ordinata */
+
+/* Inizio tabella */
+#tabella{
+    border-spacing: 0;
+}
+
+thead{
+    background-color:  rgb(0, 191, 255);
+    color: white;
+}
+
+th{
+    width: 25%;
+    text-align: left;
+}
+
+#terza-colonna{
+    width: 50%;
+}
+
+tbody{
+    height: 200px;
+}
+
+.linea-blu{
+    background-color: aquamarine;
+}
+/* Fine tabella */
+
+
+
+
 
 
