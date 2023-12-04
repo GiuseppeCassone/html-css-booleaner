@@ -99,6 +99,32 @@ tbody{
 }
 /* Fine tabella */
 
+/* sezione finale */
+#ultima-sezione{
+    color: grey;
+    font-size: 20px;
+}
+
+#prima-foto{
+    width: 300px;
+    height: 200px;
+    background-image: url(img/monitor.jpg);
+    margin-bottom: 10px;
+}
+
+#seconda-foto{
+    width: 300px;
+    height: 200px;
+    background-image: url(img/graph.jpg);
+
+}
+
+.Lorem{
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+}
+
 
 
 
