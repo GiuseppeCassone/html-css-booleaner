@@ -13,4 +13,29 @@ header{
 #logo{
     width: 15%;
     margin-top: 40px;
+    margin-left: 5px;
+}
+
+main{
+    margin: 5px;
+}
+
+#titolo{
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+
+#sottotitolo{
+    font-size: 20px;
+    color: grey;
+    margin-bottom: 5px;
+}
+
+#booleaner{
+    color: lightblue;
+}
+
+#data{
+    color: grey;
+    font-size: 15px;
 }
