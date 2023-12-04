@@ -2,6 +2,7 @@ body{
     margin: 0;
 }
 
+/* Inizio header */
 header{
     width: 100%;
     height: 100px;
@@ -15,11 +16,13 @@ header{
     margin-top: 40px;
     margin-left: 5px;
 }
+/* Fine header */
 
 main{
     margin: 5px;
 }
 
+/* Prima sezione */
 #titolo{
     font-size: 50px;
     margin-bottom: 5px;
@@ -38,4 +41,18 @@ main{
 #data{
     color: grey;
     font-size: 15px;
+    margin-bottom: 10px
 }
+/* Fine prima sezione */
+
+/* inizio seconda sezione */
+#tim{
+    margin-top: 10px;
+}
+
+.foto-tim{
+    width: 650px;
+    height: 450px;
+}
+/* Fine seconda sezione */
+
