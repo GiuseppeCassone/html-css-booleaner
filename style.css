@@ -20,6 +20,7 @@ header{
 
 main{
     margin: 5px;
+    font-size: 18px;
 }
 
 /* Prima sezione */
@@ -63,6 +64,10 @@ main{
 /* inizio sezione paragrafo e lista non ordinata */
 .evidenziato{
     background-color: yellow;
+}
+
+ul{
+    padding: 20px;
 }
 
 
