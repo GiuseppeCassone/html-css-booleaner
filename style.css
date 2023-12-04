@@ -54,5 +54,15 @@ main{
     width: 650px;
     height: 450px;
 }
+
+.descrizione{
+    font-size: 15px;
+}
 /* Fine seconda sezione */
+
+/* inizio sezione paragrafo e lista non ordinata */
+.evidenziato{
+    background-color: yellow;
+}
+
 
